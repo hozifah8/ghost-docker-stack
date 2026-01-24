@@ -2,12 +2,12 @@
 
 Professional Ghost CMS setup using Docker Compose and MySQL 8.0.
 
-## 🚀 Features
+##  Features
 * **Full Stack:** Ghost CMS + MySQL 8.0 database.
 * **Persistent:** Data stays safe in Docker Volumes.
 * **Secure:** Environment variables handled via `.env`.
 
-## 🛠️ How to Run
+##  How to Run
 
 1. **Clone the project:**
    ```bash
